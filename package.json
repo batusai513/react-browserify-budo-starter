@@ -3,11 +3,14 @@
   "version": "1.0.0",
   "description": "React training basics",
   "main": "index.js",
+  "browserify": {
+    "transform": ["babelify"]
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "browserify -t babelify scripts/App.js -o build/index.js",
-    "watch": "watchify -t babelify scripts/App.js -o build/index.js -dv",
-    "serve": "budo scripts/index.js:build/index.js --dir=build --live -- -t babelify | garnish"
+    "build": "browserify scripts/index.js -o build/index.js",
+    "watch": "watchify scripts/index.js -o build/index.js -dv",
+    "serve": "budo scripts/index.js:build/index.js -v --live -- -p errorify | garnish -v"
   },
   "keywords": [
     "React",
@@ -20,6 +23,7 @@
     "babelify": "^6.2.0",
     "browserify": "^11.0.1",
     "budo": "^4.2.1",
+    "errorify": "^0.3.1",
     "garnish": "^2.3.0",
     "watchify": "^3.3.1"
   },

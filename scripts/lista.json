@@ -1,0 +1,412 @@
+{
+    "people": [
+        {
+            "email": "david.bohorquez@koombea.com",
+            "firstName": "David",
+            "lastName": "Bohorquez Argote",
+            "role": "Tech Lead"
+        },
+        {
+            "email": "maritza.mendoza@koombea.com",
+            "firstName": "Maritza Esther",
+            "lastName": "Mendoza Jim\u00e9nez",
+            "role": "Administrative"
+        },
+        {
+            "email": "lorena.plata@koombea.com",
+            "firstName": "Lorena",
+            "lastName": "Plata Abdala",
+            "role": "Administrative"
+        },
+        {
+            "email": "jonathan.marin@koombea.com",
+            "firstName": "Jonathan Alfonso",
+            "lastName": "Mar\u00edn Salazar",
+            "role": "Web Development"
+        },
+        {
+            "email": "leonardo.sanclemente@koombea.com",
+            "firstName": "Leonardo Enrique",
+            "lastName": "Sanclemente Eredia",
+            "role": "Web Development"
+        },
+        {
+            "email": "moises.narvaez@koombea.com",
+            "firstName": "Moises David",
+            "lastName": "Narv\u00e1ez Cabrera",
+            "role": "Web Development"
+        },
+        {
+            "email": "ivan.granados@koombea.com",
+            "firstName": "Ivan",
+            "lastName": "Granados Fedullo",
+            "role": "Web Development"
+        },
+        {
+            "email": "luis.gutierrez@koombea.com",
+            "firstName": "Luis David",
+            "lastName": "Gutierrez Molina",
+            "role": "Web Development"
+        },
+        {
+            "email": "miguel.caro@koombea.com",
+            "firstName": "Miguel Alejandro",
+            "lastName": "Caro Pinilla",
+            "role": "Front-end Development"
+        },
+        {
+            "email": "andres.rojas@koombea.com",
+            "firstName": "Andres Roberto",
+            "lastName": "Rojas Urueta",
+            "role": "Front-end Development"
+        },
+        {
+            "email": "diego.barrera@koombea.com",
+            "firstName": "Diego Armando",
+            "lastName": "Barrera Acosta",
+            "role": "Web Design"
+        },
+        {
+            "email": "luis.tovar@koombea.com",
+            "firstName": "Luis Alberto",
+            "lastName": "Tovar Taboada",
+            "role": "Mobile Development"
+        },
+        {
+            "email": "carlos.riascos@koombea.com",
+            "firstName": "Carlos Alfonso",
+            "lastName": "Riascos Berm\u00fadez",
+            "role": "Mobile Development"
+        },
+        {
+            "email": "carlos.montoya@koombea.com",
+            "firstName": "Carlos Alberto",
+            "lastName": "Montoya Cantillo",
+            "role": "Web Design"
+        },
+        {
+            "email": "lumir.olivares@koombea.com",
+            "firstName": "Lumir Alberto",
+            "lastName": "Olivares Sarmiento",
+            "role": "Web Development"
+        },
+        {
+            "email": "arnol.fontalvo@koombea.com",
+            "firstName": "Arnol",
+            "lastName": "Fontalvo Fruto",
+            "role": "Web Development"
+        },
+        {
+            "email": "jonathan.cabas@koombea.com",
+            "firstName": "Jonathan Andr\u00e9s",
+            "lastName": "Cabas Candama",
+            "role": "Web Development"
+        },
+        {
+            "email": "patricia.yepes@koombea.com",
+            "firstName": "Arleidys Patricia",
+            "lastName": "Yepes Fontanilla",
+            "role": "Administrative"
+        },
+        {
+            "email": "juan.ortiz@koombea.com",
+            "firstName": "Juan Camilo",
+            "lastName": "Ortiz",
+            "role": "Web Design"
+        },
+        {
+            "email": "mario.rocchi@koombea.com",
+            "firstName": "Mario Andr\u00e9s",
+            "lastName": "Rocchi Meri\u00f1o",
+            "role": "Web Design"
+        },
+        {
+            "email": "hernan.orozco@koombea.com",
+            "firstName": "Hern\u00e1n Enrique",
+            "lastName": "Orozco Picalua",
+            "role": "Web Development"
+        },
+        {
+            "email": "edgar.ortega@koombea.com",
+            "firstName": "Edgar Duvan",
+            "lastName": "Ortega Ramirez",
+            "role": "Web Development"
+        },
+        {
+            "email": "fabian.altahona@koombea.com",
+            "firstName": "Fabian",
+            "lastName": "Altahona Bol\u00edvar",
+            "role": "Front-end Development"
+        },
+        {
+            "email": "erlinis.quintana@koombea.com",
+            "firstName": "Erlinis",
+            "lastName": "Quintana Lascarro",
+            "role": "Web Development"
+        },
+        {
+            "email": "ricardo.berdejo@koombea.com",
+            "firstName": "Ricardo Enrique",
+            "lastName": "Berdejo Mora",
+            "role": "Web Development"
+        },
+        {
+            "email": "lacides.charris@koombea.com",
+            "firstName": "Lacides Rafael",
+            "lastName": "Charris Barros",
+            "role": "Web Development"
+        },
+        {
+            "email": "mario@koombea.com",
+            "firstName": "Jorge Mario",
+            "lastName": "Medina Tatis",
+            "role": "PM"
+        },
+        {
+            "email": "jose.gomez@koombea.com",
+            "firstName": "Jose Felix",
+            "lastName": "Gomez De Oro",
+            "role": "PM"
+        },
+        {
+            "email": "alvaro@koombea.com",
+            "firstName": "Alvaro",
+            "lastName": "Insignares Noguera",
+            "role": "PM"
+        },
+        {
+            "email": "diego.vivero@koombea.com",
+            "firstName": "Diego Alberto",
+            "lastName": "Vivero Ramirez",
+            "role": "Sales"
+        },
+        {
+            "email": "osvaldo.mercado@koombea.com",
+            "firstName": "Osvaldo Rafael",
+            "lastName": "Mercado Espinel",
+            "role": "Mobile Development"
+        },
+        {
+            "email": "carlos.lopez@koombea.com",
+            "firstName": "Carlos Andres",
+            "lastName": "Lopez Reales",
+            "role": "Mobile Development"
+        },
+        {
+            "email": "ivan.arango@koombea.com",
+            "firstName": "Ivan Antonio",
+            "lastName": "Arango Villarreal",
+            "role": "Web Design"
+        },
+        {
+            "email": "damian.galindo@koombea.com",
+            "firstName": "Damian Albeiro",
+            "lastName": "Galindo Meza",
+            "role": "Web Development"
+        },
+        {
+            "email": "mauricio.mejia@koombea.com",
+            "firstName": "Mauricio Jose",
+            "lastName": "Mejia Movilla",
+            "role": "Front-end Development"
+        },
+        {
+            "email": "nestor.ramirez@koombea.com",
+            "firstName": "Nestor Andres",
+            "lastName": "Ramirez Rugeles",
+            "role": "Web Design"
+        },
+        {
+            "email": "javier.siado@koombea.com",
+            "firstName": "Javier Alfonso",
+            "lastName": "Siado Sarmiento",
+            "role": "Web Development"
+        },
+        {
+            "email": "marcela.garizao@koombea.com",
+            "firstName": "Marcela Fernanda",
+            "lastName": "Garizao Santrich",
+            "role": "Web Development"
+        },
+        {
+            "email": "ivan.ardila@koombea.com",
+            "firstName": "Iv\u00e1n Camilo",
+            "lastName": "Ardila Segovia",
+            "role": "Tech Lead"
+        },
+        {
+            "email": "javier.fonseca@koombea.com",
+            "firstName": "Javier Enrique",
+            "lastName": "Fonseca Vendries",
+            "role": "Web Development"
+        },
+        {
+            "email": "leandro.pineda@koombea.com",
+            "firstName": "Leandro de Jes\u00fas",
+            "lastName": "Pineda Jim\u00e9nez",
+            "role": "Front-end Development"
+        },
+        {
+            "email": "luis.hernandez@koombea.com",
+            "firstName": "Luis Carlos",
+            "lastName": "Hernandez Altamar",
+            "role": "Web Design"
+        },
+        {
+            "email": "charly.palencia@koombea.com",
+            "firstName": "Charly Rafael",
+            "lastName": "Palencia Yejas",
+            "role": "Web Development"
+        },
+        {
+            "email": "richard.roncancio@koombea.com",
+            "firstName": "Richard David",
+            "lastName": "Roncancio Acendra",
+            "role": "Front-end Development"
+        },
+        {
+            "email": "german.garcia@koombea.com",
+            "firstName": "Germ\u00e1n Alberto",
+            "lastName": "Garc\u00eda De La Rosa",
+            "role": "Tech Lead"
+        },
+        {
+            "email": "eliana.farelo@koombea.com",
+            "firstName": "Eliana Margarita",
+            "lastName": "Farelo Mendoza",
+            "role": "Administrative"
+        },
+        {
+            "email": "pedro.fernandez@koombea.com",
+            "firstName": "Pedro Luis",
+            "lastName": "Fern\u00e1ndez Moreno",
+            "role": "Tech Lead"
+        },
+        {
+            "email": "miguel.perez@koombea.com",
+            "firstName": "Miguel Antonio",
+            "lastName": "P\u00e9rez Leal",
+            "role": "Tech Lead"
+        },
+        {
+            "email": "raul.mantilla@koombea.com",
+            "firstName": "Raul",
+            "lastName": "Mantilla Assia",
+            "role": "Tech Lead"
+        },
+        {
+            "email": "oscar.rodriguez@koombea.com",
+            "firstName": "Oscar Fabian",
+            "lastName": "Rodriguez Clavijo",
+            "role": "Tech Lead"
+        },
+        {
+            "email": "oscar.demoya@koombea.com",
+            "firstName": "Oscar Gabriel",
+            "lastName": "De Moya Maldonado",
+            "role": "Tech Lead"
+        },
+        {
+            "email": "alberto.delahoz@koombea.com",
+            "firstName": "Alberto Mario",
+            "lastName": "De La Hoz Barros",
+            "role": "Front-end Development"
+        },
+        {
+            "email": "zayter.munive@koombea.com",
+            "firstName": "Zayter",
+            "lastName": "Munive Ghisays",
+            "role": "Web Development"
+        },
+        {
+            "email": "luis.hernandez@koombea.com",
+            "firstName": "Luis Carlos",
+            "lastName": "Hernandez Macias",
+            "role": "Web Development"
+        },
+        {
+            "email": "juan.yepes@koombea.com",
+            "firstName": "Juan Andr\u00e9s",
+            "lastName": "Yepes",
+            "role": "Front-end Development"
+        },
+        {
+            "email": "jose.arce@koombea.com",
+            "firstName": "Jose Uber",
+            "lastName": "Arce Millan",
+            "role": "Mobile Development"
+        },
+        {
+            "email": "carlos.contreras@koombea.com",
+            "firstName": "Carlos",
+            "lastName": "Contreras",
+            "role": "Web Development"
+        },
+        {
+            "email": "natalia.polo@koombea.com",
+            "firstName": "Natalia",
+            "lastName": "Polo",
+            "role": "Administrative"
+        },
+        {
+            "email": "gustavo.bazan@koombea.com",
+            "firstName": "Gustavo",
+            "lastName": "Bazan",
+            "role": "Web Development"
+        },
+        {
+            "email": "hector.ghinaglia@koombea.com",
+            "firstName": "Hector Enrique",
+            "lastName": "Ghinaglia Delgado",
+            "role": "Mobile Development"
+        },
+        {
+            "email": "laura.orellano@koombea.com",
+            "firstName": "Laura Marcela",
+            "lastName": "Orellano Morales",
+            "role": "Administrative"
+        },
+        {
+            "email": "julio.orozco@koombea.com",
+            "firstName": "Julio Cesar",
+            "lastName": "Orozco Perez",
+            "role": "Web Development"
+        },
+        {
+            "email": "juan.mejia@koombea.com",
+            "firstName": "Juan Guillermo",
+            "lastName": "Mejia Mejia",
+            "role": "Front-end Development"
+        },
+        {
+            "email": "juan.hazbun@koombea.com",
+            "firstName": "Juan Carlos",
+            "lastName": "Hazb\u00fan Nieto",
+            "role": "Web Development"
+        },
+        {
+            "email": "lorena.bernal@koombea.com",
+            "firstName": "Lorena Paola",
+            "lastName": "Bernal Rojas",
+            "role": "Administrative"
+        },
+        {
+            "email": "briss.munoz@koombea.com",
+            "firstName": "Briss Stefania",
+            "lastName": "Mu\u00f1oz Sarmiento",
+            "role": "Administrative"
+        },
+        {
+            "email": "luis.silvera@koombea.com",
+            "firstName": "Luis Manuel",
+            "lastName": "Silvera Sonett",
+            "role": "Web Development"
+        },
+        {
+            "email": "adriana.vargas@koombea.com",
+            "firstName": "Adriana Vanessa",
+            "lastName": "Vargas Insignares",
+            "role": "Administrative"
+        }
+    ]
+}
