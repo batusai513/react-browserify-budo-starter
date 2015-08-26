@@ -2,9 +2,9 @@
 
 - Intall nodejs
 - CD into the folder
-- run npm instal -g browserify babel budo
-- Run npm install
-- Run npm run serve
+- Run `npm install -g browserify babel budo`
+- Run `npm install`
+- Run `npm run serve`
 
 ## React top lvl API
 
