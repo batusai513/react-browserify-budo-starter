@@ -6,7 +6,7 @@
 - Run npm install
 - Run npm run serve
 
-# React top lvl API
+## React top lvl API
 
 - React.createClass
 - React.createElement
@@ -19,19 +19,18 @@
 - React.PropTypes
 - React.Children
 
-# React component API
+## React component API
 
 - setState
 - forceUpdate
 - getDOMNode
 - isMounted
-
 - getInitialState
 - getInitialProps
 - propTypes
 - mixins
 
-# React component Lifecycle Methods
+## React component Lifecycle Methods
 
 - mounting
   - componentWillMount
