@@ -1,15 +1,33 @@
-var React = require('react');
+import React from 'react';
 var lista = require('../lista.json').people;
+var sortBy = require('sort-by');
 
-var {ul, li, h1, div, b} = React.DOM;
+console.log(lista);
 
-var app = React.createClass({
-	render() {
-		return(
-     div({},
-      h1({}, "El equipo de Koombea"))
-		);
-	}
+var Trabajador = React.createClass({
+  propTypes: {
+    data: React.PropTypes.object.isRequired
+  },
+  render() {
+    return(
+      <li>
+	{this.props.data.firstName} {this.props.data.lastName} email: <a href={`mailto: ${this.props.data.email}`}>{this.props.data.email}</a> cargo: <b>{this.props.data.role}</b>
+      </li>
+    );
+  }
 });
 
-module.exports = app;
+var ListaTrabajadores = React.createClass({
+  render(){
+    var listaTrabajadores = lista
+				.filter((item) => { return item.role == "Front-end Development" })
+				.map( (trabajador, idx) => { return <Trabajador key={idx} data={trabajador} /> });
+    return(
+      <ul>
+	{listaTrabajadores}
+      </ul>
+    );
+  }
+});
+
+module.exports = ListaTrabajadores;
